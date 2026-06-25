@@ -1,0 +1,9 @@
+Document ID: FIN_AMD_2021_InvestorPresentation_S02329
+Company Name: Advanced Micro Devices Inc. (AMD)
+Filing Type: Investor Presentation
+Filing Date: 2021-05-22
+Source URL: https://sec.report/Document/FIN_AMD_2021_InvestorPresentation_S02329.txt
+Section: Financial Position and MD&A
+========================================
+
+For the fiscal year, total net sales were $17.28 billion, compared to $14.40 billion in the prior year, representing a growth of 20.0%. Net income was $3.10 billion, compared to $3.57 billion. Operating income increased to $4.57 billion due to improved efficiencies in our global supply chain and strong demand for our premium tier products. Research and Development expenses were $1.63 billion, reflecting our persistent commitment to investing in artificial intelligence, custom chip design, and cloud infrastructure. Cash and cash equivalents stood at $1.75 billion at the end of the reporting period.

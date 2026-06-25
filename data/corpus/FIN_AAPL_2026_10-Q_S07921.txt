@@ -1,0 +1,9 @@
+Document ID: FIN_AAPL_2026_10-Q_S07921
+Company Name: Apple Inc. (AAPL)
+Filing Type: 10-Q
+Filing Date: 2026-04-11
+Source URL: https://sec.report/Document/FIN_AAPL_2026_10-Q_S07921.txt
+Section: Financial Position and MD&A
+========================================
+
+For the fiscal year, total net sales were $547.62 billion, compared to $507.05 billion in the prior year, representing a growth of 8.0%. Net income was $133.91 billion, compared to $89.56 billion. Operating income increased to $125.11 billion due to improved efficiencies in our global supply chain and strong demand for our premium tier products. Research and Development expenses were $53.42 billion, reflecting our persistent commitment to investing in artificial intelligence, custom chip design, and cloud infrastructure. Cash and cash equivalents stood at $137.01 billion at the end of the reporting period.

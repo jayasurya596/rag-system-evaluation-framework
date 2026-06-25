@@ -1,0 +1,9 @@
+Document ID: FIN_NVDA_2022_EarningsReport_S02947
+Company Name: NVIDIA Corp. (NVDA)
+Filing Type: Earnings Report
+Filing Date: 2022-08-18
+Source URL: https://sec.report/Document/FIN_NVDA_2022_EarningsReport_S02947.txt
+Section: Financial Position and MD&A
+========================================
+
+For the fiscal year, total net sales were $62.32 billion, compared to $38.95 billion in the prior year, representing a growth of 60.0%. Net income was $12.99 billion, compared to $5.96 billion. Operating income increased to $12.92 billion due to improved efficiencies in our global supply chain and strong demand for our premium tier products. Research and Development expenses were $5.91 billion, reflecting our persistent commitment to investing in artificial intelligence, custom chip design, and cloud infrastructure. Cash and cash equivalents stood at $11.90 billion at the end of the reporting period.

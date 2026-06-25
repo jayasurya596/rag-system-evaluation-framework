@@ -1,0 +1,9 @@
+Document ID: FIN_MSFT_2023_10-K_S09895
+Company Name: Microsoft Corp. (MSFT)
+Filing Type: 10-K
+Filing Date: 2023-06-03
+Source URL: https://sec.report/Document/FIN_MSFT_2023_10-K_S09895.txt
+Section: Financial Position and MD&A
+========================================
+
+For the fiscal year, total net sales were $285.93 billion, compared to $248.63 billion in the prior year, representing a growth of 15.0%. Net income was $60.23 billion, compared to $45.43 billion. Operating income increased to $72.89 billion due to improved efficiencies in our global supply chain and strong demand for our premium tier products. Research and Development expenses were $29.62 billion, reflecting our persistent commitment to investing in artificial intelligence, custom chip design, and cloud infrastructure. Cash and cash equivalents stood at $111.94 billion at the end of the reporting period.

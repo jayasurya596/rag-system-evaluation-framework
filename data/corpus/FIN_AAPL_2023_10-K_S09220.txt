@@ -1,0 +1,9 @@
+Document ID: FIN_AAPL_2023_10-K_S09220
+Company Name: Apple Inc. (AAPL)
+Filing Type: 10-K
+Filing Date: 2023-03-17
+Source URL: https://sec.report/Document/FIN_AAPL_2023_10-K_S09220.txt
+Section: Forward-Looking Statements
+========================================
+
+This document contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These statements are based on current expectations and projections about future events, including our growth outlook for next fiscal year, expected capital expenditures of $35.30 billion, expected tax rate of 25%, and planned expansion into corporate AI platforms. These statements are subject to uncertainty and changes in circumstances. Actual results may differ materially from those expressed or implied by these forward-looking statements due to changing macroeconomic conditions, consumer spending patterns, and global regulatory developments.

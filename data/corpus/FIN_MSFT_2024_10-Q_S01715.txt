@@ -1,0 +1,9 @@
+Document ID: FIN_MSFT_2024_10-Q_S01715
+Company Name: Microsoft Corp. (MSFT)
+Filing Type: 10-Q
+Filing Date: 2024-04-12
+Source URL: https://sec.report/Document/FIN_MSFT_2024_10-Q_S01715.txt
+Section: AI Strategy and Innovation
+========================================
+
+Innovation is at the core of Microsoft Corp.'s long-term business strategy. We are actively embedding generative AI capabilities across our product lineup and enterprise services. Our next-generation deep learning chips and software frameworks are designed to accelerate neural network training and inferencing workloads at the edge and in hyperscale data centers. We believe that custom silicon development and proprietary algorithmic designs give us a unique competitive advantage. We plan to increase our capital allocation toward AI infrastructure and high-performance computing centers to support our growing developer ecosystem.

@@ -1,0 +1,9 @@
+Document ID: FIN_AMD_2024_InvestorPresentation_S05287
+Company Name: Advanced Micro Devices Inc. (AMD)
+Filing Type: Investor Presentation
+Filing Date: 2024-11-18
+Source URL: https://sec.report/Document/FIN_AMD_2024_InvestorPresentation_S05287.txt
+Section: Financial Position and MD&A
+========================================
+
+For the fiscal year, total net sales were $32.38 billion, compared to $26.98 billion in the prior year, representing a growth of 20.0%. Net income was $7.57 billion, compared to $4.14 billion. Operating income increased to $8.02 billion due to improved efficiencies in our global supply chain and strong demand for our premium tier products. Research and Development expenses were $3.65 billion, reflecting our persistent commitment to investing in artificial intelligence, custom chip design, and cloud infrastructure. Cash and cash equivalents stood at $7.89 billion at the end of the reporting period.

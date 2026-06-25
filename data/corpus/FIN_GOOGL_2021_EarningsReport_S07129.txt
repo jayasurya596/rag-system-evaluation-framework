@@ -1,0 +1,9 @@
+Document ID: FIN_GOOGL_2021_EarningsReport_S07129
+Company Name: Alphabet Inc. (Google) (GOOGL)
+Filing Type: Earnings Report
+Filing Date: 2021-08-22
+Source URL: https://sec.report/Document/FIN_GOOGL_2021_EarningsReport_S07129.txt
+Section: Financial Position and MD&A
+========================================
+
+For the fiscal year, total net sales were $260.03 billion, compared to $232.17 billion in the prior year, representing a growth of 12.0%. Net income was $55.97 billion, compared to $35.94 billion. Operating income increased to $73.27 billion due to improved efficiencies in our global supply chain and strong demand for our premium tier products. Research and Development expenses were $21.73 billion, reflecting our persistent commitment to investing in artificial intelligence, custom chip design, and cloud infrastructure. Cash and cash equivalents stood at $43.43 billion at the end of the reporting period.

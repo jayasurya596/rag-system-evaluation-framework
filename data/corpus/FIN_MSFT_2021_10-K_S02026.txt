@@ -1,0 +1,9 @@
+Document ID: FIN_MSFT_2021_10-K_S02026
+Company Name: Microsoft Corp. (MSFT)
+Filing Type: 10-K
+Filing Date: 2021-08-07
+Source URL: https://sec.report/Document/FIN_MSFT_2021_10-K_S02026.txt
+Section: Forward-Looking Statements
+========================================
+
+This document contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These statements are based on current expectations and projections about future events, including our growth outlook for next fiscal year, expected capital expenditures of $18.38 billion, expected tax rate of 24%, and planned expansion into corporate AI platforms. These statements are subject to uncertainty and changes in circumstances. Actual results may differ materially from those expressed or implied by these forward-looking statements due to changing macroeconomic conditions, consumer spending patterns, and global regulatory developments.

@@ -1,0 +1,9 @@
+Document ID: FIN_GOOGL_2024_EarningsReport_S02870
+Company Name: Alphabet Inc. (Google) (GOOGL)
+Filing Type: Earnings Report
+Filing Date: 2024-02-18
+Source URL: https://sec.report/Document/FIN_GOOGL_2024_EarningsReport_S02870.txt
+Section: Risk Factors - Market and Competition
+========================================
+
+Our business faces significant risks from intense competition globally. We compete against established firms that have substantial R&D budgets, manufacturing capacities, and marketing capabilities. If we are unable to develop new products that capture consumer interest or if we fail to execute on our product launch timelines, our market share and profitability will deteriorate. The growth of generative AI technologies presents both an opportunity and a threat; competitors may deploy models that render our existing solutions obsolete. Furthermore, fluctuations in foreign exchange rates and interest rates could negatively impact our gross margins and international revenues.

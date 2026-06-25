@@ -1,0 +1,9 @@
+Document ID: FIN_AMD_2026_InvestorPresentation_S01231
+Company Name: Advanced Micro Devices Inc. (AMD)
+Filing Type: Investor Presentation
+Filing Date: 2026-11-19
+Source URL: https://sec.report/Document/FIN_AMD_2026_InvestorPresentation_S01231.txt
+Section: Financial Position and MD&A
+========================================
+
+For the fiscal year, total net sales were $43.16 billion, compared to $35.97 billion in the prior year, representing a growth of 20.0%. Net income was $9.66 billion, compared to $6.18 billion. Operating income increased to $9.05 billion due to improved efficiencies in our global supply chain and strong demand for our premium tier products. Research and Development expenses were $3.90 billion, reflecting our persistent commitment to investing in artificial intelligence, custom chip design, and cloud infrastructure. Cash and cash equivalents stood at $16.20 billion at the end of the reporting period.

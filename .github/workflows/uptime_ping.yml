@@ -1,0 +1,31 @@
+name: Uptime Monitoring Ping
+
+on:
+  schedule:
+    # Run every hour to keep the service warm and verify health
+    - cron: '0 * * * *'
+  workflow_dispatch: # Enable manual triggers
+
+jobs:
+  ping:
+    name: Ping Deployed Demo
+    runs-on: ubuntu-latest
+    steps:
+      - name: Uptime Check
+        env:
+          DEMO_URL: ${{ secrets.DEPLOYED_URL }}
+        run: |
+          if [ -z "$DEMO_URL" ]; then
+            echo "DEPLOYED_URL secret is not configured. Skipping ping."
+            echo "Please set secrets.DEPLOYED_URL in your GitHub repository secrets."
+            exit 0
+          fi
+          echo "Pinging deployed RAG demo at $DEMO_URL ..."
+          # Follow redirects and get status code
+          STATUS_CODE=$(curl -L -o /dev/null -s -w "%{http_code}\n" "$DEMO_URL")
+          echo "HTTP Status Code: $STATUS_CODE"
+          if [ "$STATUS_CODE" -ne 200 ]; then
+            echo "❌ Uptime Check FAILED! Demo is down or unreachable."
+            exit 1
+          fi
+          echo "✅ Uptime Check PASSED! Demo is live and healthy."

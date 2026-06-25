@@ -1,0 +1,9 @@
+Document ID: FIN_GOOGL_2025_EarningsReport_S06361
+Company Name: Alphabet Inc. (Google) (GOOGL)
+Filing Type: Earnings Report
+Filing Date: 2025-07-06
+Source URL: https://sec.report/Document/FIN_GOOGL_2025_EarningsReport_S06361.txt
+Section: Financial Position and MD&A
+========================================
+
+For the fiscal year, total net sales were $420.83 billion, compared to $375.74 billion in the prior year, representing a growth of 12.0%. Net income was $84.34 billion, compared to $73.54 billion. Operating income increased to $91.35 billion due to improved efficiencies in our global supply chain and strong demand for our premium tier products. Research and Development expenses were $42.15 billion, reflecting our persistent commitment to investing in artificial intelligence, custom chip design, and cloud infrastructure. Cash and cash equivalents stood at $50.12 billion at the end of the reporting period.

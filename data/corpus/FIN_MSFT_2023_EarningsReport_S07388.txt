@@ -1,0 +1,9 @@
+Document ID: FIN_MSFT_2023_EarningsReport_S07388
+Company Name: Microsoft Corp. (MSFT)
+Filing Type: Earnings Report
+Filing Date: 2023-08-06
+Source URL: https://sec.report/Document/FIN_MSFT_2023_EarningsReport_S07388.txt
+Section: Risk Factors - Market and Competition
+========================================
+
+Our business faces significant risks from intense competition globally. We compete against established firms that have substantial R&D budgets, manufacturing capacities, and marketing capabilities. If we are unable to develop new products that capture consumer interest or if we fail to execute on our product launch timelines, our market share and profitability will deteriorate. The growth of generative AI technologies presents both an opportunity and a threat; competitors may deploy models that render our existing solutions obsolete. Furthermore, fluctuations in foreign exchange rates and interest rates could negatively impact our gross margins and international revenues.

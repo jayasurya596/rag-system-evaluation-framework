@@ -1,0 +1,29 @@
+{
+  "feedback": [
+    {
+      "id": 1,
+      "query": "Test query feedback",
+      "answer": "Test answer",
+      "rating": "bad",
+      "timestamp": 1782282706.439671,
+      "processed": 1
+    },
+    {
+      "id": 2,
+      "query": "Test query feedback",
+      "answer": "Test answer",
+      "rating": "bad",
+      "timestamp": 1782368967.0331721,
+      "processed": 1
+    },
+    {
+      "id": 3,
+      "query": "Test query feedback",
+      "answer": "Test answer",
+      "rating": "bad",
+      "timestamp": 1782369608.965887,
+      "processed": 1
+    }
+  ],
+  "adjustments_log": []
+}

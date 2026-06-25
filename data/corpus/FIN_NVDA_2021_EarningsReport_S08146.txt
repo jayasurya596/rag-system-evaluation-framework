@@ -1,0 +1,9 @@
+Document ID: FIN_NVDA_2021_EarningsReport_S08146
+Company Name: NVIDIA Corp. (NVDA)
+Filing Type: Earnings Report
+Filing Date: 2021-07-06
+Source URL: https://sec.report/Document/FIN_NVDA_2021_EarningsReport_S08146.txt
+Section: Forward-Looking Statements
+========================================
+
+This document contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These statements are based on current expectations and projections about future events, including our growth outlook for next fiscal year, expected capital expenditures of $3.54 billion, expected tax rate of 22%, and planned expansion into corporate AI platforms. These statements are subject to uncertainty and changes in circumstances. Actual results may differ materially from those expressed or implied by these forward-looking statements due to changing macroeconomic conditions, consumer spending patterns, and global regulatory developments.

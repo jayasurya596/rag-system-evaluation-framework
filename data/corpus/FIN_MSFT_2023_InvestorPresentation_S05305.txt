@@ -1,0 +1,9 @@
+Document ID: FIN_MSFT_2023_InvestorPresentation_S05305
+Company Name: Microsoft Corp. (MSFT)
+Filing Type: Investor Presentation
+Filing Date: 2023-01-16
+Source URL: https://sec.report/Document/FIN_MSFT_2023_InvestorPresentation_S05305.txt
+Section: Financial Position and MD&A
+========================================
+
+For the fiscal year, total net sales were $280.42 billion, compared to $243.85 billion in the prior year, representing a growth of 15.0%. Net income was $48.75 billion, compared to $48.11 billion. Operating income increased to $63.33 billion due to improved efficiencies in our global supply chain and strong demand for our premium tier products. Research and Development expenses were $32.11 billion, reflecting our persistent commitment to investing in artificial intelligence, custom chip design, and cloud infrastructure. Cash and cash equivalents stood at $93.29 billion at the end of the reporting period.

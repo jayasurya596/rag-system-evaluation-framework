@@ -1,0 +1,9 @@
+Document ID: FIN_MSFT_2026_EarningsReport_S02023
+Company Name: Microsoft Corp. (MSFT)
+Filing Type: Earnings Report
+Filing Date: 2026-01-09
+Source URL: https://sec.report/Document/FIN_MSFT_2026_EarningsReport_S02023.txt
+Section: Financial Position and MD&A
+========================================
+
+For the fiscal year, total net sales were $435.16 billion, compared to $378.40 billion in the prior year, representing a growth of 15.0%. Net income was $68.08 billion, compared to $77.34 billion. Operating income increased to $128.08 billion due to improved efficiencies in our global supply chain and strong demand for our premium tier products. Research and Development expenses were $47.97 billion, reflecting our persistent commitment to investing in artificial intelligence, custom chip design, and cloud infrastructure. Cash and cash equivalents stood at $125.11 billion at the end of the reporting period.

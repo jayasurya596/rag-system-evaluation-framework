@@ -1,0 +1,9 @@
+Document ID: FIN_MSFT_2024_InvestorPresentation_S02215
+Company Name: Microsoft Corp. (MSFT)
+Filing Type: Investor Presentation
+Filing Date: 2024-02-16
+Source URL: https://sec.report/Document/FIN_MSFT_2024_InvestorPresentation_S02215.txt
+Section: Financial Position and MD&A
+========================================
+
+For the fiscal year, total net sales were $303.63 billion, compared to $264.02 billion in the prior year, representing a growth of 15.0%. Net income was $63.87 billion, compared to $39.67 billion. Operating income increased to $73.51 billion due to improved efficiencies in our global supply chain and strong demand for our premium tier products. Research and Development expenses were $30.15 billion, reflecting our persistent commitment to investing in artificial intelligence, custom chip design, and cloud infrastructure. Cash and cash equivalents stood at $106.72 billion at the end of the reporting period.

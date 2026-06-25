@@ -1,0 +1,9 @@
+Document ID: FIN_GOOGL_2023_10-K_S09043
+Company Name: Alphabet Inc. (Google) (GOOGL)
+Filing Type: 10-K
+Filing Date: 2023-10-15
+Source URL: https://sec.report/Document/FIN_GOOGL_2023_10-K_S09043.txt
+Section: Financial Position and MD&A
+========================================
+
+For the fiscal year, total net sales were $345.33 billion, compared to $308.33 billion in the prior year, representing a growth of 12.0%. Net income was $74.00 billion, compared to $58.11 billion. Operating income increased to $71.35 billion due to improved efficiencies in our global supply chain and strong demand for our premium tier products. Research and Development expenses were $27.94 billion, reflecting our persistent commitment to investing in artificial intelligence, custom chip design, and cloud infrastructure. Cash and cash equivalents stood at $128.99 billion at the end of the reporting period.

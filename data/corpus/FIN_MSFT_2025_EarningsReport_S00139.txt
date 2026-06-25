@@ -1,0 +1,9 @@
+Document ID: FIN_MSFT_2025_EarningsReport_S00139
+Company Name: Microsoft Corp. (MSFT)
+Filing Type: Earnings Report
+Filing Date: 2025-07-17
+Source URL: https://sec.report/Document/FIN_MSFT_2025_EarningsReport_S00139.txt
+Section: Financial Position and MD&A
+========================================
+
+For the fiscal year, total net sales were $370.05 billion, compared to $321.78 billion in the prior year, representing a growth of 15.0%. Net income was $62.53 billion, compared to $53.39 billion. Operating income increased to $110.87 billion due to improved efficiencies in our global supply chain and strong demand for our premium tier products. Research and Development expenses were $36.51 billion, reflecting our persistent commitment to investing in artificial intelligence, custom chip design, and cloud infrastructure. Cash and cash equivalents stood at $134.60 billion at the end of the reporting period.

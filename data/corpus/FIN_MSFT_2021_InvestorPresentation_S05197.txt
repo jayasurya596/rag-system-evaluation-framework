@@ -1,0 +1,9 @@
+Document ID: FIN_MSFT_2021_InvestorPresentation_S05197
+Company Name: Microsoft Corp. (MSFT)
+Filing Type: Investor Presentation
+Filing Date: 2021-06-08
+Source URL: https://sec.report/Document/FIN_MSFT_2021_InvestorPresentation_S05197.txt
+Section: Financial Position and MD&A
+========================================
+
+For the fiscal year, total net sales were $196.66 billion, compared to $171.01 billion in the prior year, representing a growth of 15.0%. Net income was $45.89 billion, compared to $41.93 billion. Operating income increased to $54.10 billion due to improved efficiencies in our global supply chain and strong demand for our premium tier products. Research and Development expenses were $18.12 billion, reflecting our persistent commitment to investing in artificial intelligence, custom chip design, and cloud infrastructure. Cash and cash equivalents stood at $49.05 billion at the end of the reporting period.

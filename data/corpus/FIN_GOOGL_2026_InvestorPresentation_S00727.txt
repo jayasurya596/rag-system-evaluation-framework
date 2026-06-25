@@ -1,0 +1,9 @@
+Document ID: FIN_GOOGL_2026_InvestorPresentation_S00727
+Company Name: Alphabet Inc. (Google) (GOOGL)
+Filing Type: Investor Presentation
+Filing Date: 2026-03-04
+Source URL: https://sec.report/Document/FIN_GOOGL_2026_InvestorPresentation_S00727.txt
+Section: Financial Position and MD&A
+========================================
+
+For the fiscal year, total net sales were $483.87 billion, compared to $432.03 billion in the prior year, representing a growth of 12.0%. Net income was $88.30 billion, compared to $97.83 billion. Operating income increased to $139.44 billion due to improved efficiencies in our global supply chain and strong demand for our premium tier products. Research and Development expenses were $48.42 billion, reflecting our persistent commitment to investing in artificial intelligence, custom chip design, and cloud infrastructure. Cash and cash equivalents stood at $182.45 billion at the end of the reporting period.

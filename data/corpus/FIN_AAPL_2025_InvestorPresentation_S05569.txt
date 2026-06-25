@@ -1,0 +1,9 @@
+Document ID: FIN_AAPL_2025_InvestorPresentation_S05569
+Company Name: Apple Inc. (AAPL)
+Filing Type: Investor Presentation
+Filing Date: 2025-12-22
+Source URL: https://sec.report/Document/FIN_AAPL_2025_InvestorPresentation_S05569.txt
+Section: Financial Position and MD&A
+========================================
+
+For the fiscal year, total net sales were $495.03 billion, compared to $458.36 billion in the prior year, representing a growth of 8.0%. Net income was $97.59 billion, compared to $71.02 billion. Operating income increased to $145.84 billion due to improved efficiencies in our global supply chain and strong demand for our premium tier products. Research and Development expenses were $51.38 billion, reflecting our persistent commitment to investing in artificial intelligence, custom chip design, and cloud infrastructure. Cash and cash equivalents stood at $150.16 billion at the end of the reporting period.

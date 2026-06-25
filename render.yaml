@@ -1,0 +1,19 @@
+services:
+  - type: web
+    name: financial-rag-platform
+    env: docker
+    plan: free
+    dockerfilepath: Dockerfile
+    dockerContext: .
+    port: 8501
+    envVars:
+      - key: PORT
+        value: 8501
+      - key: BACKEND_URL
+        value: http://127.0.0.1:8000
+      - key: GEMINI_API_KEY
+        sync: false  # The user will supply this value in the Render dashboard secrets
+      - key: WEAVIATE_URL
+        sync: false  # Option for external Weaviate Cloud instance
+      - key: WEAVIATE_API_KEY
+        sync: false

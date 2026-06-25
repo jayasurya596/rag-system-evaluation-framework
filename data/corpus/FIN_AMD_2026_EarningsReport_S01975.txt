@@ -1,0 +1,9 @@
+Document ID: FIN_AMD_2026_EarningsReport_S01975
+Company Name: Advanced Micro Devices Inc. (AMD)
+Filing Type: Earnings Report
+Filing Date: 2026-01-01
+Source URL: https://sec.report/Document/FIN_AMD_2026_EarningsReport_S01975.txt
+Section: Financial Position and MD&A
+========================================
+
+For the fiscal year, total net sales were $44.85 billion, compared to $37.37 billion in the prior year, representing a growth of 20.0%. Net income was $8.58 billion, compared to $9.01 billion. Operating income increased to $9.35 billion due to improved efficiencies in our global supply chain and strong demand for our premium tier products. Research and Development expenses were $4.10 billion, reflecting our persistent commitment to investing in artificial intelligence, custom chip design, and cloud infrastructure. Cash and cash equivalents stood at $6.53 billion at the end of the reporting period.

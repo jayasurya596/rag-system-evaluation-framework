@@ -1,0 +1,9 @@
+Document ID: FIN_AMD_2025_InvestorPresentation_S02707
+Company Name: Advanced Micro Devices Inc. (AMD)
+Filing Type: Investor Presentation
+Filing Date: 2025-08-11
+Source URL: https://sec.report/Document/FIN_AMD_2025_InvestorPresentation_S02707.txt
+Section: Financial Position and MD&A
+========================================
+
+For the fiscal year, total net sales were $38.79 billion, compared to $32.33 billion in the prior year, representing a growth of 20.0%. Net income was $8.23 billion, compared to $5.22 billion. Operating income increased to $11.48 billion due to improved efficiencies in our global supply chain and strong demand for our premium tier products. Research and Development expenses were $4.29 billion, reflecting our persistent commitment to investing in artificial intelligence, custom chip design, and cloud infrastructure. Cash and cash equivalents stood at $13.92 billion at the end of the reporting period.

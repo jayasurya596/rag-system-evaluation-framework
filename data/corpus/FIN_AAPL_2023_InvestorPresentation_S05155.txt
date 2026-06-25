@@ -1,0 +1,9 @@
+Document ID: FIN_AAPL_2023_InvestorPresentation_S05155
+Company Name: Apple Inc. (AAPL)
+Filing Type: Investor Presentation
+Filing Date: 2023-08-25
+Source URL: https://sec.report/Document/FIN_AAPL_2023_InvestorPresentation_S05155.txt
+Section: Financial Position and MD&A
+========================================
+
+For the fiscal year, total net sales were $453.71 billion, compared to $420.11 billion in the prior year, representing a growth of 8.0%. Net income was $110.69 billion, compared to $105.02 billion. Operating income increased to $101.15 billion due to improved efficiencies in our global supply chain and strong demand for our premium tier products. Research and Development expenses were $49.06 billion, reflecting our persistent commitment to investing in artificial intelligence, custom chip design, and cloud infrastructure. Cash and cash equivalents stood at $125.67 billion at the end of the reporting period.

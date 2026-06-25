@@ -1,0 +1,9 @@
+Document ID: FIN_GOOGL_2024_10-Q_S06649
+Company Name: Alphabet Inc. (Google) (GOOGL)
+Filing Type: 10-Q
+Filing Date: 2024-06-05
+Source URL: https://sec.report/Document/FIN_GOOGL_2024_10-Q_S06649.txt
+Section: Financial Position and MD&A
+========================================
+
+For the fiscal year, total net sales were $387.23 billion, compared to $345.74 billion in the prior year, representing a growth of 12.0%. Net income was $96.31 billion, compared to $85.65 billion. Operating income increased to $114.97 billion due to improved efficiencies in our global supply chain and strong demand for our premium tier products. Research and Development expenses were $35.82 billion, reflecting our persistent commitment to investing in artificial intelligence, custom chip design, and cloud infrastructure. Cash and cash equivalents stood at $78.29 billion at the end of the reporting period.

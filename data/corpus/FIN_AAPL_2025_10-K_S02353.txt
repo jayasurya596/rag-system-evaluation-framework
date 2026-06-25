@@ -1,0 +1,9 @@
+Document ID: FIN_AAPL_2025_10-K_S02353
+Company Name: Apple Inc. (AAPL)
+Filing Type: 10-K
+Filing Date: 2025-04-14
+Source URL: https://sec.report/Document/FIN_AAPL_2025_10-K_S02353.txt
+Section: Financial Position and MD&A
+========================================
+
+For the fiscal year, total net sales were $504.16 billion, compared to $466.82 billion in the prior year, representing a growth of 8.0%. Net income was $102.74 billion, compared to $81.97 billion. Operating income increased to $107.33 billion due to improved efficiencies in our global supply chain and strong demand for our premium tier products. Research and Development expenses were $48.99 billion, reflecting our persistent commitment to investing in artificial intelligence, custom chip design, and cloud infrastructure. Cash and cash equivalents stood at $76.57 billion at the end of the reporting period.

@@ -1,0 +1,9 @@
+Document ID: FIN_NVDA_2021_10-K_S06829
+Company Name: NVIDIA Corp. (NVDA)
+Filing Type: 10-K
+Filing Date: 2021-03-09
+Source URL: https://sec.report/Document/FIN_NVDA_2021_10-K_S06829.txt
+Section: Financial Position and MD&A
+========================================
+
+For the fiscal year, total net sales were $41.52 billion, compared to $25.95 billion in the prior year, representing a growth of 60.0%. Net income was $7.53 billion, compared to $4.47 billion. Operating income increased to $10.01 billion due to improved efficiencies in our global supply chain and strong demand for our premium tier products. Research and Development expenses were $3.72 billion, reflecting our persistent commitment to investing in artificial intelligence, custom chip design, and cloud infrastructure. Cash and cash equivalents stood at $13.56 billion at the end of the reporting period.

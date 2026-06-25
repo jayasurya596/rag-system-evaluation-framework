@@ -1,0 +1,9 @@
+Document ID: FIN_NVDA_2026_InvestorPresentation_S04723
+Company Name: NVIDIA Corp. (NVDA)
+Filing Type: Investor Presentation
+Filing Date: 2026-02-11
+Source URL: https://sec.report/Document/FIN_NVDA_2026_InvestorPresentation_S04723.txt
+Section: Financial Position and MD&A
+========================================
+
+For the fiscal year, total net sales were $410.31 billion, compared to $256.45 billion in the prior year, representing a growth of 60.0%. Net income was $80.78 billion, compared to $60.47 billion. Operating income increased to $102.02 billion due to improved efficiencies in our global supply chain and strong demand for our premium tier products. Research and Development expenses were $35.60 billion, reflecting our persistent commitment to investing in artificial intelligence, custom chip design, and cloud infrastructure. Cash and cash equivalents stood at $80.02 billion at the end of the reporting period.

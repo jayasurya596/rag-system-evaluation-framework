@@ -1,0 +1,9 @@
+Document ID: FIN_AMD_2025_10-Q_S02376
+Company Name: Advanced Micro Devices Inc. (AMD)
+Filing Type: 10-Q
+Filing Date: 2025-06-17
+Source URL: https://sec.report/Document/FIN_AMD_2025_10-Q_S02376.txt
+Section: Business Overview
+========================================
+
+Advanced Micro Devices Inc. is a global leader in technology, design, and innovation. We design, manufacture, and market mobile communication and media devices, personal computers, and portable digital music players, and sell a variety of related software, services, accessories, networking solutions, and third-party digital content and applications. Our business strategy leverages our unique ability to design and develop our own operating systems, hardware, application software, and services to provide our customers products and solutions with innovative design, superior ease-of-use, and seamless integration. We believe robust capital structure and continuous innovation are the key drivers for long-term shareholder value creation.

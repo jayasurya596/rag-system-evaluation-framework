@@ -1,0 +1,9 @@
+Document ID: FIN_AAPL_2021_InvestorPresentation_S05743
+Company Name: Apple Inc. (AAPL)
+Filing Type: Investor Presentation
+Filing Date: 2021-11-25
+Source URL: https://sec.report/Document/FIN_AAPL_2021_InvestorPresentation_S05743.txt
+Section: Financial Position and MD&A
+========================================
+
+For the fiscal year, total net sales were $363.17 billion, compared to $336.27 billion in the prior year, representing a growth of 8.0%. Net income was $70.05 billion, compared to $60.40 billion. Operating income increased to $74.56 billion due to improved efficiencies in our global supply chain and strong demand for our premium tier products. Research and Development expenses were $40.15 billion, reflecting our persistent commitment to investing in artificial intelligence, custom chip design, and cloud infrastructure. Cash and cash equivalents stood at $120.92 billion at the end of the reporting period.

@@ -1,0 +1,9 @@
+Document ID: FIN_NVDA_2024_EarningsReport_S03250
+Company Name: NVIDIA Corp. (NVDA)
+Filing Type: Earnings Report
+Filing Date: 2024-04-12
+Source URL: https://sec.report/Document/FIN_NVDA_2024_EarningsReport_S03250.txt
+Section: Forward-Looking Statements
+========================================
+
+This document contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These statements are based on current expectations and projections about future events, including our growth outlook for next fiscal year, expected capital expenditures of $8.04 billion, expected tax rate of 23%, and planned expansion into corporate AI platforms. These statements are subject to uncertainty and changes in circumstances. Actual results may differ materially from those expressed or implied by these forward-looking statements due to changing macroeconomic conditions, consumer spending patterns, and global regulatory developments.

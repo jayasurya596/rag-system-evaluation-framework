@@ -1,0 +1,9 @@
+Document ID: FIN_AAPL_2024_10-Q_S09949
+Company Name: Apple Inc. (AAPL)
+Filing Type: 10-Q
+Filing Date: 2024-12-23
+Source URL: https://sec.report/Document/FIN_AAPL_2024_10-Q_S09949.txt
+Section: Financial Position and MD&A
+========================================
+
+For the fiscal year, total net sales were $468.24 billion, compared to $433.55 billion in the prior year, representing a growth of 8.0%. Net income was $77.30 billion, compared to $77.43 billion. Operating income increased to $101.34 billion due to improved efficiencies in our global supply chain and strong demand for our premium tier products. Research and Development expenses were $47.60 billion, reflecting our persistent commitment to investing in artificial intelligence, custom chip design, and cloud infrastructure. Cash and cash equivalents stood at $177.77 billion at the end of the reporting period.

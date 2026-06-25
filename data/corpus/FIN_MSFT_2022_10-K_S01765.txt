@@ -1,0 +1,9 @@
+Document ID: FIN_MSFT_2022_10-K_S01765
+Company Name: Microsoft Corp. (MSFT)
+Filing Type: 10-K
+Filing Date: 2022-05-22
+Source URL: https://sec.report/Document/FIN_MSFT_2022_10-K_S01765.txt
+Section: Financial Position and MD&A
+========================================
+
+For the fiscal year, total net sales were $243.24 billion, compared to $211.51 billion in the prior year, representing a growth of 15.0%. Net income was $50.87 billion, compared to $46.26 billion. Operating income increased to $64.82 billion due to improved efficiencies in our global supply chain and strong demand for our premium tier products. Research and Development expenses were $28.92 billion, reflecting our persistent commitment to investing in artificial intelligence, custom chip design, and cloud infrastructure. Cash and cash equivalents stood at $30.68 billion at the end of the reporting period.

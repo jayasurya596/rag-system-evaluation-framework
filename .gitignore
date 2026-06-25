@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+qdrant_db/
+*.sqlite
+mock_weaviate.json

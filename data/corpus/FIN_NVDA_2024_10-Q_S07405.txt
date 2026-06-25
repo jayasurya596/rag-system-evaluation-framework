@@ -1,0 +1,9 @@
+Document ID: FIN_NVDA_2024_10-Q_S07405
+Company Name: NVIDIA Corp. (NVDA)
+Filing Type: 10-Q
+Filing Date: 2024-08-09
+Source URL: https://sec.report/Document/FIN_NVDA_2024_10-Q_S07405.txt
+Section: Financial Position and MD&A
+========================================
+
+For the fiscal year, total net sales were $168.87 billion, compared to $105.54 billion in the prior year, representing a growth of 60.0%. Net income was $27.71 billion, compared to $22.02 billion. Operating income increased to $40.32 billion due to improved efficiencies in our global supply chain and strong demand for our premium tier products. Research and Development expenses were $14.42 billion, reflecting our persistent commitment to investing in artificial intelligence, custom chip design, and cloud infrastructure. Cash and cash equivalents stood at $32.02 billion at the end of the reporting period.

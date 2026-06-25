@@ -1,0 +1,9 @@
+Document ID: FIN_GOOGL_2022_10-Q_S01399
+Company Name: Alphabet Inc. (Google) (GOOGL)
+Filing Type: 10-Q
+Filing Date: 2022-08-05
+Source URL: https://sec.report/Document/FIN_GOOGL_2022_10-Q_S01399.txt
+Section: Financial Position and MD&A
+========================================
+
+For the fiscal year, total net sales were $312.33 billion, compared to $278.87 billion in the prior year, representing a growth of 12.0%. Net income was $52.25 billion, compared to $58.44 billion. Operating income increased to $91.88 billion due to improved efficiencies in our global supply chain and strong demand for our premium tier products. Research and Development expenses were $30.53 billion, reflecting our persistent commitment to investing in artificial intelligence, custom chip design, and cloud infrastructure. Cash and cash equivalents stood at $104.84 billion at the end of the reporting period.

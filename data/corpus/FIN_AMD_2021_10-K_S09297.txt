@@ -1,0 +1,9 @@
+Document ID: FIN_AMD_2021_10-K_S09297
+Company Name: Advanced Micro Devices Inc. (AMD)
+Filing Type: 10-K
+Filing Date: 2021-01-14
+Source URL: https://sec.report/Document/FIN_AMD_2021_10-K_S09297.txt
+Section: Risk Factors - Supply Chain and Regulatory Constraints
+========================================
+
+We rely heavily on a complex supply chain network of third-party suppliers, components manufacturers, and logistics partners, primarily concentrated in the Asia-Pacific region. Any supply disruption, natural disaster, geopolitical conflict, or component shortage (particularly advanced semiconductors and high-bandwidth memory chips) could significantly delay product deliveries. Additionally, we are subject to rigorous regulatory oversight, antitrust investigations, and strict data privacy regulations across various jurisdictions (such as the EU GDPR and California CCPA). Any failure to comply with these regulations could lead to substantial fines, operational restrictions, and damage to our reputation.

@@ -1,0 +1,9 @@
+Document ID: FIN_NVDA_2025_EarningsReport_S01867
+Company Name: NVIDIA Corp. (NVDA)
+Filing Type: Earnings Report
+Filing Date: 2025-04-21
+Source URL: https://sec.report/Document/FIN_NVDA_2025_EarningsReport_S01867.txt
+Section: Financial Position and MD&A
+========================================
+
+For the fiscal year, total net sales were $257.23 billion, compared to $160.77 billion in the prior year, representing a growth of 60.0%. Net income was $54.61 billion, compared to $33.66 billion. Operating income increased to $52.05 billion due to improved efficiencies in our global supply chain and strong demand for our premium tier products. Research and Development expenses were $24.90 billion, reflecting our persistent commitment to investing in artificial intelligence, custom chip design, and cloud infrastructure. Cash and cash equivalents stood at $37.51 billion at the end of the reporting period.

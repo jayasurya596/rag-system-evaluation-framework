@@ -1,0 +1,9 @@
+Document ID: FIN_MSFT_2021_EarningsReport_S08629
+Company Name: Microsoft Corp. (MSFT)
+Filing Type: Earnings Report
+Filing Date: 2021-09-06
+Source URL: https://sec.report/Document/FIN_MSFT_2021_EarningsReport_S08629.txt
+Section: Financial Position and MD&A
+========================================
+
+For the fiscal year, total net sales were $212.99 billion, compared to $185.21 billion in the prior year, representing a growth of 15.0%. Net income was $42.63 billion, compared to $32.56 billion. Operating income increased to $52.26 billion due to improved efficiencies in our global supply chain and strong demand for our premium tier products. Research and Development expenses were $19.17 billion, reflecting our persistent commitment to investing in artificial intelligence, custom chip design, and cloud infrastructure. Cash and cash equivalents stood at $84.83 billion at the end of the reporting period.

@@ -1,0 +1,9 @@
+Document ID: FIN_AMD_2023_EarningsReport_S07345
+Company Name: Advanced Micro Devices Inc. (AMD)
+Filing Type: Earnings Report
+Filing Date: 2023-02-24
+Source URL: https://sec.report/Document/FIN_AMD_2023_EarningsReport_S07345.txt
+Section: Financial Position and MD&A
+========================================
+
+For the fiscal year, total net sales were $25.07 billion, compared to $20.89 billion in the prior year, representing a growth of 20.0%. Net income was $3.88 billion, compared to $4.44 billion. Operating income increased to $5.77 billion due to improved efficiencies in our global supply chain and strong demand for our premium tier products. Research and Development expenses were $2.14 billion, reflecting our persistent commitment to investing in artificial intelligence, custom chip design, and cloud infrastructure. Cash and cash equivalents stood at $7.54 billion at the end of the reporting period.

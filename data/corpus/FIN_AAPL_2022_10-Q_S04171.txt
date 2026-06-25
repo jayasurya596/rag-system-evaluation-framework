@@ -1,0 +1,9 @@
+Document ID: FIN_AAPL_2022_10-Q_S04171
+Company Name: Apple Inc. (AAPL)
+Filing Type: 10-Q
+Filing Date: 2022-10-15
+Source URL: https://sec.report/Document/FIN_AAPL_2022_10-Q_S04171.txt
+Section: Financial Position and MD&A
+========================================
+
+For the fiscal year, total net sales were $417.11 billion, compared to $386.21 billion in the prior year, representing a growth of 8.0%. Net income was $96.87 billion, compared to $79.66 billion. Operating income increased to $91.28 billion due to improved efficiencies in our global supply chain and strong demand for our premium tier products. Research and Development expenses were $33.95 billion, reflecting our persistent commitment to investing in artificial intelligence, custom chip design, and cloud infrastructure. Cash and cash equivalents stood at $151.67 billion at the end of the reporting period.

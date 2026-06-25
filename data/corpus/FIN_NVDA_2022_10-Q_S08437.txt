@@ -1,0 +1,9 @@
+Document ID: FIN_NVDA_2022_10-Q_S08437
+Company Name: NVIDIA Corp. (NVDA)
+Filing Type: 10-Q
+Filing Date: 2022-01-01
+Source URL: https://sec.report/Document/FIN_NVDA_2022_10-Q_S08437.txt
+Section: Financial Position and MD&A
+========================================
+
+For the fiscal year, total net sales were $61.83 billion, compared to $38.64 billion in the prior year, representing a growth of 60.0%. Net income was $13.01 billion, compared to $6.05 billion. Operating income increased to $16.93 billion due to improved efficiencies in our global supply chain and strong demand for our premium tier products. Research and Development expenses were $5.23 billion, reflecting our persistent commitment to investing in artificial intelligence, custom chip design, and cloud infrastructure. Cash and cash equivalents stood at $22.09 billion at the end of the reporting period.
