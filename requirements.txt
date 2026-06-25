@@ -12,5 +12,4 @@ numpy
 scikit-learn
 requests
 python-dotenv
-weaviate-client>=4.7.1
 google-genai>=1.20.0
