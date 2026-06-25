@@ -54,8 +54,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Centralize configuration
-BACKEND_URL = os.getenv("BACKEND_URL", "http://localhost:8000")
-
+BACKEND_URL = os.getenv("BACKEND_URL", "https://rag-system-evaluation-framework.onrender.com")
 @st.cache_data(ttl=10)
 def fetch_system_metadata():
     try:
