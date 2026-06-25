@@ -13,3 +13,4 @@ scikit-learn
 requests
 python-dotenv
 weaviate-client
+google-genai
