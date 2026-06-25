@@ -426,10 +426,26 @@ with tab_eval:
         oc1, oc2, oc3, oc4, oc5 = st.columns(5)
         
         with oc1:
-            p_diff = imp_sum["overall"]["precision"] - base_sum["overall"]["precision"]
-            delta_str = f"{p_diff*100:+.1f}%"
-            dtype = "up" if p_diff >= 0 else "down"
-            render_metric_card("Precision @ 5", f"{imp_sum['overall']['precision']*100:.1f}%", f"Baseline: {base_sum['overall']['precision']*100:.1f}% ({delta_str})", dtype)
+            imp_precision = imp_sum.get("overall", {}).get("precision")
+            base_precision = base_sum.get("overall", {}).get("precision")
+
+            if imp_precision is not None and base_precision is not None:
+                p_diff = imp_precision - base_precision
+                delta_str = f"{p_diff*100:+.1f}%"
+                dtype = "up" if p_diff >= 0 else "down"
+
+                render_metric_card(
+                    "Precision @ 5",
+                    f"{imp_precision*100:.1f}%",
+                    f"Baseline: {base_precision*100:.1f}% ({delta_str})",
+                    dtype,
+            )
+            else:
+                st.error("Precision metric not found in evaluation results.")
+                st.write("Improved Summary")
+                st.json(imp_sum)
+                st.write("Baseline Summary")
+                st.json(base_sum)
             
         with oc2:
             r_diff = imp_sum["overall"]["recall"] - base_sum["overall"]["recall"]
