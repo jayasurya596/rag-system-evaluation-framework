@@ -448,31 +448,80 @@ with tab_eval:
                 st.json(base_sum)
             
         with oc2:
-            r_diff = imp_sum["overall"]["recall"] - base_sum["overall"]["recall"]
-            delta_str = f"{r_diff*100:+.1f}%"
-            dtype = "up" if r_diff >= 0 else "down"
-            render_metric_card("Recall @ 5", f"{imp_sum['overall']['recall']*100:.1f}%", f"Baseline: {base_sum['overall']['recall']*100:.1f}% ({delta_str})", dtype)
-            
+            imp_recall = imp_sum.get("overall", {}).get("recall")
+            base_recall = base_sum.get("overall", {}).get("recall")
+
+            if imp_recall is not None and base_recall is not None:
+                r_diff = imp_recall - base_recall
+                delta_str = f"{r_diff*100:+.1f}%"
+                dtype = "up" if r_diff >= 0 else "down"
+
+                render_metric_card(
+                    "Recall @ 5",
+                    f"{imp_recall*100:.1f}%",
+                    f"Baseline: {base_recall*100:.1f}% ({delta_str})",
+                    dtype,
+            )
+            else:
+                st.error("Recall metric not found.")
+
+
         with oc3:
-            f_diff = imp_sum["overall"]["faithfulness"] - base_sum["overall"]["faithfulness"]
-            delta_str = f"{f_diff*100:+.1f}%"
-            dtype = "up" if f_diff >= 0 else "down"
-            render_metric_card("Faithfulness (Judge)", f"{imp_sum['overall']['faithfulness']*100:.1f}%", f"Baseline: {base_sum['overall']['faithfulness']*100:.1f}%", "up")
-            
+            imp_faith = imp_sum.get("overall", {}).get("faithfulness")
+            base_faith = base_sum.get("overall", {}).get("faithfulness")
+
+            if imp_faith is not None and base_faith is not None:
+               f_diff = imp_faith - base_faith
+               delta_str = f"{f_diff*100:+.1f}%"
+               dtype = "up" if f_diff >= 0 else "down"
+
+               render_metric_card(
+                   "Faithfulness (Judge)",
+                   f"{imp_faith*100:.1f}%",
+                   f"Baseline: {base_faith*100:.1f}% ({delta_str})",
+                   dtype,
+            )
+            else:
+                st.error("Faithfulness metric not found.")
+
+
         with oc4:
-            rel_diff = imp_sum["overall"]["relevance"] - base_sum["overall"]["relevance"]
-            delta_str = f"{rel_diff:+.2f}"
-            dtype = "up" if rel_diff >= 0 else "down"
-            render_metric_card("Relevance (1-5)", f"{imp_sum['overall']['relevance']:.2f}/5", f"Baseline: {base_sum['overall']['relevance']:.2f}/5", "up")
-            
+            imp_rel = imp_sum.get("overall", {}).get("relevance")
+            base_rel = base_sum.get("overall", {}).get("relevance")
+
+            if imp_rel is not None and base_rel is not None:
+               rel_diff = imp_rel - base_rel
+               delta_str = f"{rel_diff:+.2f}"
+               dtype = "up" if rel_diff >= 0 else "down"
+
+               render_metric_card(
+                   "Relevance (1-5)",
+                   f"{imp_rel:.2f}/5",
+                   f"Baseline: {base_rel:.2f}/5 ({delta_str})",
+                   dtype,
+            )
+            else:
+                st.error("Relevance metric not found.")
+
+
         with oc5:
-            l_diff = imp_sum["overall"]["latency"] - base_sum["overall"]["latency"]
-            delta_str = f"{l_diff:+.3f}s"
-            dtype = "down" if l_diff > 0 else "up"  # decrease in latency is good
-            render_metric_card("Avg Latency", f"{imp_sum['overall']['latency']:.3f}s", f"Baseline: {base_sum['overall']['latency']:.3f}s ({delta_str})", dtype)
-            
-        # Draw Plotly Charts
-        st.markdown("### Metrics Segmentation by Question Category")
+            imp_latency = imp_sum.get("overall", {}).get("latency")
+            base_latency = base_sum.get("overall", {}).get("latency")
+
+            if imp_latency is not None and base_latency is not None:
+               l_diff = imp_latency - base_latency
+               delta_str = f"{l_diff:+.3f}s"
+               dtype = "down" if l_diff > 0 else "up"
+
+               render_metric_card(
+                   "Avg Latency",
+                   f"{imp_latency:.3f}s",
+                   f"Baseline: {base_latency:.3f}s ({delta_str})",
+                   dtype,
+            )
+            else:
+                st.error("Latency metric not found.")
+                st.markdown("### Metrics Segmentation by Question Category")
         
         categories = ["overall", "direct", "multi-hop", "ambiguous", "unanswerable"]
         categories_display = ["Overall", "Direct QA", "Multi-Hop", "Ambiguous", "Unanswerable"]
