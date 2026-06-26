@@ -530,9 +530,8 @@ with tab_eval:
                 st.error("Latency metric not found.")
                 st.markdown("### Metrics Segmentation by Question Category")
         
-        categories = ["overall", "direct", "multi-hop", "ambiguous", "unanswerable"]
-        categories_display = ["Overall", "Direct QA", "Multi-Hop", "Ambiguous", "Unanswerable"]
-        
+        ccategories = list(base_sum.keys())
+        categories_display = categories
         # 1. Retrieval Performance Plot
         st.markdown('<div class="chart-wrap"><div class="chart-title">Retrieval Precision and Recall Comparison</div><div class="chart-subtitle">Comparing baseline retriever vs re-ranked improved retriever across query types</div>', unsafe_allow_html=True)
         
