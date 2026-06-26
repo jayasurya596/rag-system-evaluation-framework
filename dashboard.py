@@ -544,7 +544,7 @@ with tab_eval:
             y=[
                 base_sum.get(cat, {}).get("precision", 0)
                 for cat in categories
-            ]
+            ],
             marker_color='#ef4444'
         ))
         fig_ret.add_trace(go.Bar(
