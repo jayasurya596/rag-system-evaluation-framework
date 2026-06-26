@@ -553,7 +553,7 @@ with tab_eval:
             y=[
                 imp_sum.get(cat, {}).get("precision", 0)
                 for cat in categories
-            ]
+            ],
             marker_color='#22c55e'
         ))
         
@@ -564,7 +564,7 @@ with tab_eval:
             y=[
                 base_sum.get(cat, {}).get("recall", 0)
                 for cat in categories
-            ]
+            ],
             marker_color='#f87171'
         ))
         fig_ret.add_trace(go.Bar(
@@ -573,7 +573,7 @@ with tab_eval:
             y=[
                 imp_sum.get(cat, {}).get("recall", 0)
                 for cat in categories
-            ]
+            ],
             marker_color='#4ade80'
         ))
         
@@ -591,7 +591,7 @@ with tab_eval:
             y=[
                 base_sum.get(cat, {}).get("faithfulness", 0)
                 for cat in categories
-            ]
+            ],
             marker_color='#ef4444'
         ))
         fig_gen.add_trace(go.Bar(
@@ -600,7 +600,7 @@ with tab_eval:
             y=[
                 imp_sum.get(cat, {}).get("faithfulness", 0)
                 for cat in categories
-        ]
+            ],
             marker_color='#22c55e'
         ))
         fig_gen.add_trace(go.Bar(
@@ -610,7 +610,7 @@ with tab_eval:
            y=[
                (base_sum.get(cat, {}).get("relevance", 1)-1)/4
                for cat in categories
-            ]
+            ],
             marker_color='#3b82f6'
         ))
         fig_gen.add_trace(go.Bar(
@@ -619,7 +619,7 @@ with tab_eval:
             y=[
                 (imp_sum.get(cat, {}).get("relevance", 1)-1)/4
                 for cat in categories
-            ]
+            ],
             marker_color='#60a5fa'
         ))
         
