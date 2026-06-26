@@ -420,6 +420,13 @@ with tab_eval:
             
         base_sum = report_data["baseline_summary"]
         imp_sum = report_data["improved_summary"]
+        st.write("BASE SUMMARY")
+        st.json(base_sum)
+
+        st.write("IMPROVED SUMMARY")
+        st.json(imp_sum)
+
+        st.stop()
         
         # Overall comparison row
         st.markdown("### Overall System Comparison")
