@@ -541,13 +541,19 @@ with tab_eval:
         fig_ret.add_trace(go.Bar(
             name='Baseline Precision',
             x=categories_display,
-            y=[base_sum[cat]["precision"] for cat in categories],
+            y=[
+                base_sum.get(cat, {}).get("precision", 0)
+                for cat in categories
+            ]
             marker_color='#ef4444'
         ))
         fig_ret.add_trace(go.Bar(
             name='Improved Precision',
             x=categories_display,
-            y=[imp_sum[cat]["precision"] for cat in categories],
+            y=[
+                imp_sum.get(cat, {}).get("precision", 0)
+                for cat in categories
+            ]
             marker_color='#22c55e'
         ))
         
@@ -555,13 +561,19 @@ with tab_eval:
         fig_ret.add_trace(go.Bar(
             name='Baseline Recall',
             x=categories_display,
-            y=[base_sum[cat]["recall"] for cat in categories],
+            y=[
+                base_sum.get(cat, {}).get("recall", 0)
+                for cat in categories
+            ]
             marker_color='#f87171'
         ))
         fig_ret.add_trace(go.Bar(
             name='Improved Recall',
             x=categories_display,
-            y=[imp_sum[cat]["recall"] for cat in categories],
+            y=[
+                imp_sum.get(cat, {}).get("recall", 0)
+                for cat in categories
+            ]
             marker_color='#4ade80'
         ))
         
@@ -576,26 +588,38 @@ with tab_eval:
         fig_gen.add_trace(go.Bar(
             name='Baseline Faithfulness',
             x=categories_display,
-            y=[base_sum[cat]["faithfulness"] for cat in categories],
+            y=[
+                base_sum.get(cat, {}).get("faithfulness", 0)
+                for cat in categories
+            ]
             marker_color='#ef4444'
         ))
         fig_gen.add_trace(go.Bar(
             name='Improved Faithfulness',
             x=categories_display,
-            y=[imp_sum[cat]["faithfulness"] for cat in categories],
+            y=[
+                imp_sum.get(cat, {}).get("faithfulness", 0)
+                for cat in categories
+        ]
             marker_color='#22c55e'
         ))
         fig_gen.add_trace(go.Bar(
             name='Baseline Relevance (Normalised)',
             x=categories_display,
             # Normalize 1-5 score to 0-1 for plotting consistency
-            y=[(base_sum[cat]["relevance"] - 1) / 4.0 for cat in categories],
+           y=[
+               (base_sum.get(cat, {}).get("relevance", 1)-1)/4
+               for cat in categories
+            ]
             marker_color='#3b82f6'
         ))
         fig_gen.add_trace(go.Bar(
             name='Improved Relevance (Normalised)',
             x=categories_display,
-            y=[(imp_sum[cat]["relevance"] - 1) / 4.0 for cat in categories],
+            y=[
+                (imp_sum.get(cat, {}).get("relevance", 1)-1)/4
+                for cat in categories
+            ]
             marker_color='#60a5fa'
         ))
         
